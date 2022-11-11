@@ -1,0 +1,1 @@
+javac -cp .:/Users/imacdidavide/Universita/ProgrammazioneProcedurale/Java/ProveEsame/esercizio2/calendarioEsami/lib/utilita.jar it/unibas/calendario/modello/*.java it/unibas/calendario/controllo/*.java

@@ -1,0 +1,1 @@
+java -cp .:/User/imacdidavide/Università/ProgrammazioneProcedurale/Java/ProveEsame/esercizio1/lib/utilita.java it.unibas.affitti.controllo.Principale

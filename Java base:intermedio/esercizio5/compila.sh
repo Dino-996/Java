@@ -1,0 +1,1 @@
+javac -cp .:/Users/imacdidavide/Università/ProgrammazioneProcedurale/Java/ProveEsame/esercizio5/lib/utilita.jar it/unibas/streaming/modello/*.java it/unibas/streaming/controllo/*.java

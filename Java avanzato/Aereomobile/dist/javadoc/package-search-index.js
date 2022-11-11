@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"it.unibas.aereomobile"},{"l":"it.unibas.aereomobile.controllo"},{"l":"it.unibas.aereomobile.modello"},{"l":"it.unibas.aereomobile.persistenza"},{"l":"it.unibas.aereomobile.vista"}];updateSearchResults();

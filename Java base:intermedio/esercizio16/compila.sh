@@ -1,0 +1,1 @@
+javac -cp .:/Users/imacdidavide/Università/ProgrammazioneProcedurale/Java/lib/utilita.jar it/unibas/fantacalcio/modello/*.java it/unibas/fantacalcio/controllo/*.java

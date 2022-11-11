@@ -1,0 +1,1 @@
+javac -cp .:/Users/imacdidavide/Università/ProgrammazioneProcedurale/Java/lib/utilita.jar it/unibas/taxy/modello/*.java it/unibas/taxy/controllo/*.java

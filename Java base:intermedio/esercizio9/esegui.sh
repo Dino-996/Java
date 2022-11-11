@@ -1,0 +1,1 @@
+java -cp .:/Users/imacdidavide/Università/ProgrammazioneProcedurale/Java/lib/utilita.jar it.unibas.laurea.controllo.Principale

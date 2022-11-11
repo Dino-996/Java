@@ -1,0 +1,1 @@
+javac -cp .:/Users/imacdidavide/Università/ProgrammazioneProcedurale/Java/lib/utilita.jar it/unibas/agenzia/modello/*.java it/unibas/agenzia/controllo/*.java
