@@ -1,5 +1,0 @@
-Studente:
-Rossi | Mario | 1234
---------------------------------------
-Analisi | 3 | 24 | false
-Fisica | 9 | 30 | true

@@ -1,1 +1,0 @@
-javac -cp .;lib/utilita.jar;lib/junit.jar it.unibas.indovinailnumero.modello.test.TestTutto.java

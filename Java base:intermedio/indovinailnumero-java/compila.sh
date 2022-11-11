@@ -1,1 +1,0 @@
-javac -cp .:lib/utilita.jar it.unibas.indovinailnumero.controllo.Principale.java

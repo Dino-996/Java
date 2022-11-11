@@ -1,1 +1,0 @@
-javac -cp .:/Users/Università/imacdidavide/ProgrammazioneProcedurale/Java/ProveEsame/esercizio2/elezioniPolitiche/lib/utilita.jar it/unibas/elezioni/controllo/Principale.java it/unibas/elezioni/modello/*.java
